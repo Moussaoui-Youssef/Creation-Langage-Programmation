@@ -1,4 +1,4 @@
-grammar Calculette_Programme;
+grammar Langage_Programmation;
 
 @members {
     private TableSymboles tablesSymboles = new TableSymboles();
