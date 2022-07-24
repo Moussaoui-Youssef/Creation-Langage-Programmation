@@ -1,4 +1,4 @@
-grammar Calculette_MoussaouiYoussef_RamiAymane_CouturierMattis;
+grammar Calculette_Programme;
 
 @members {
     private TableSymboles tablesSymboles = new TableSymboles();
